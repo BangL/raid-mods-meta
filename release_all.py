@@ -20,6 +20,7 @@ mods = {
     "playerinfo": "PlayerInfo",
     "randommissionhotkey": "RandomMissionHotkey",
     "reloadthenrun-raid": "ReloadThenRunRAID",
+    "statsscreen": "StatsScreen",
     "wolfganghud": "WolfgangHUD",
 }
 

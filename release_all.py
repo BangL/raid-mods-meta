@@ -8,10 +8,12 @@ META_DIR = os.path.dirname(os.path.abspath(__file__))
 # identifier -> directory name in mods/
 mods = {
     "3dpings": "3DPings",
+    "assaultinforaid": "AssaultInfoRAID",
     "banghud-raid": "BangHUD-RAID",
     "bernadettas-profile-tools": "Bernadetta Style Profile Tools",
     "betterserverbrowser": "BetterServerBrowser",
     "botshavefeelingsreborn": "BotsHaveFeelingsReborn",
+    "bountyhunter": "BountyHunter",
     "bountygrinder": "BountyGrinder",
     "enhancedhitmarkers-raid": "EnhancedHitmarkersRAID",
     "guiiconsexplorer": "GuiIconsExplorer",
@@ -19,6 +21,7 @@ mods = {
     "outlawintelpeekerreborn": "OutlawIntelPeekerReborn",
     "playerinfo": "PlayerInfo",
     "randommissionhotkey": "RandomMissionHotkey",
+    "readyuplockfix": "ReadyUpLockFix",
     "reloadthenrun-raid": "ReloadThenRunRAID",
     "statsscreen": "StatsScreen",
     "wolfganghud": "WolfgangHUD",

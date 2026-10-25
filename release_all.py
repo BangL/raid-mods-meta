@@ -17,6 +17,7 @@ mods = {
     "bountygrinder": "BountyGrinder",
     "enhancedhitmarkers-raid": "EnhancedHitmarkersRAID",
     "extraachievs": "ExtraAchievs",
+    "extraraidinfo": "ExtraRaidInfo",
     "guiiconsexplorer": "GuiIconsExplorer",
     "lootfixer": "LootFixer",
     "outlawintelpeekerreborn": "OutlawIntelPeekerReborn",

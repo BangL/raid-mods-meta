@@ -16,6 +16,7 @@ mods = {
     "bountyhunter": "BountyHunter",
     "bountygrinder": "BountyGrinder",
     "enhancedhitmarkers-raid": "EnhancedHitmarkersRAID",
+    "extraachievs": "ExtraAchievs",
     "guiiconsexplorer": "GuiIconsExplorer",
     "lootfixer": "LootFixer",
     "outlawintelpeekerreborn": "OutlawIntelPeekerReborn",
@@ -24,6 +25,7 @@ mods = {
     "readyuplockfix": "ReadyUpLockFix",
     "reloadthenrun-raid": "ReloadThenRunRAID",
     "statsscreen": "StatsScreen",
+    "thirdperson": "ThirdPerson",
     "wolfganghud": "WolfgangHUD",
 }
 

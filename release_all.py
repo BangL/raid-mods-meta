@@ -34,6 +34,9 @@ mods = {
     "statsscreen": "StatsScreen",
     "thirdperson": "ThirdPerson",
     "wolfganghud": "WolfgangHUD",
+    "savegamedumper": "SaveGameDumper",
+    "luadebugapi": "LuaDebugAPI",
+    "wolfganghud-devtools": "WolfgangHUD-DevTools",
 }
 
 for ident, name in mods.items():

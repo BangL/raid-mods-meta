@@ -22,6 +22,7 @@ mods = {
     "extraraidinfo": "ExtraRaidInfo",
     "guiiconsexplorer": "GuiIconsExplorer",
     "hitlersynced": "HitlerSynced",
+    "iter-raid": "Iter",
     "lootfixer": "LootFixer",
     "outlawintelpeekerreborn": "OutlawIntelPeekerReborn",
     "playerinfo": "PlayerInfo",

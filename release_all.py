@@ -8,6 +8,7 @@ META_DIR = os.path.dirname(os.path.abspath(__file__))
 # identifier -> directory name in mods/
 mods = {
     "3dpings": "3DPings",
+    "anticrashraid": "AnticrashRAID",
     "assaultinforaid": "AssaultInfoRAID",
     "banghud-raid": "BangHUD-RAID",
     "bangls-skinpack": "BangL's SkinPack (SkinLib)",

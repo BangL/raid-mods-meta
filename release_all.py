@@ -37,6 +37,7 @@ mods = {
     "wolfganghud": "WolfgangHUD",
     "savegamedumper": "SaveGameDumper",
     "luadebugapi": "LuaDebugAPI",
+    "fullspeedswarm-raid": "FullSpeedSwarm",
     "wolfganghud-devtools": "WolfgangHUD-DevTools",
 }
 

@@ -38,6 +38,7 @@ mods = {
     "savegamedumper": "SaveGameDumper",
     "luadebugapi": "LuaDebugAPI",
     "fullspeedswarm-raid": "FullSpeedSwarm",
+    "contours": "BangL's Contours",
     "wolfganghud-devtools": "WolfgangHUD-DevTools",
 }
 

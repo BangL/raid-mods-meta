@@ -27,6 +27,7 @@ mods = {
     "hitlersynced": "HitlerSynced",
     "iter-raid": "Iter",
     "lootfixer": "LootFixer",
+    "loadoutprofiles": "LoadoutProfiles",
     "outlawintelpeekerreborn": "OutlawIntelPeekerReborn",
     "playerinfo": "PlayerInfo",
     "randommissionhotkey": "RandomMissionHotkey",

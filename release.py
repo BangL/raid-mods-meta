@@ -23,7 +23,8 @@ old_version = data[0].get("version")
 
 # a regex instead of an XML parser: the game's parser is more lenient than a strict one
 with open(mod_file, "r", encoding="utf-8") as f:
-    mod_tag = re.search(r"<mod\b[^>]*>", f.read())
+    xml = f.read()
+mod_tag = re.search(r"<mod\b[^>]*>", xml)
 version_match = mod_tag and re.search(r'\bversion="([^"]*)"', mod_tag.group(0))
 new_version = version_match and version_match.group(1)
 if not new_version:
@@ -33,6 +34,12 @@ if not new_version:
 print("old version: " + str(old_version))
 print("new version: " + new_version)
 data[0]["version"] = new_version
+
+# changelog link: the patchnotes attribute of the <host> tag
+host_tag = re.search(r"<host\b[^>]*>", xml)
+patchnotes = host_tag and re.search(r'\bpatchnotes="([^"]*)"', host_tag.group(0))
+if patchnotes:
+    data[0]["patchnotes_url"] = patchnotes.group(1)
 
 with open(json_file, "w") as f:
     json.dump(data, f)

@@ -17,6 +17,7 @@ mods = {
     "botshavefeelingsreborn": "BotsHaveFeelingsReborn",
     "bountyhunter": "BountyHunter",
     "bountygrinder": "BountyGrinder",
+    "campfixes": "CampFixes",
     "crowbarmelee": "CrowbarMelee",
     "devtools-raid": "DevTools-RAID",
     "enhancedhitmarkers-raid": "EnhancedHitmarkersRAID",

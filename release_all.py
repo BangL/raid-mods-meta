@@ -33,6 +33,7 @@ mods = {
     "playerinfo": "PlayerInfo",
     "randommissionhotkey": "RandomMissionHotkey",
     "readyuplockfix": "ReadyUpLockFix",
+    "rewardpicker": "RewardPicker",
     "reloadthenrun-raid": "ReloadThenRunRAID",
     "statsscreen": "StatsScreen",
     "thirdperson": "ThirdPerson",
